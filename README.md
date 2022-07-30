@@ -48,7 +48,7 @@ Users should be able to:
 ### What I learned
 
 - CSS styling
-- ReadMe formatting
+- README formatting
 
 ## Acknowledgments
 
