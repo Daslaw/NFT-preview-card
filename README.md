@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/Daslaw/NFT-preview-card.git)
-- Live Site URL: [live site URL](https://bunn-nft-preview-card.netlify.app/)
+- Solution URL: (https://github.com/Daslaw/NFT-preview-card.git)
+- Live Site URL:(https://bunn-nft-preview-card.netlify.app/)
 
 ## My process
 
