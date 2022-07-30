@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [solution URL](https://github.com/Daslaw/NFT-preview-card.git)
+- Live Site URL: [live site URL](https://github.com/Daslaw/NFT-preview-card.git)
 
 ## My process
 
